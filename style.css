@@ -1,0 +1,35 @@
+MM/* index */
+.h1{color: rgb(150, 22, 22); 
+    font-size: 50px;
+    text-align: center;
+    border: 1px solid;
+}
+.nav{color: rgb(31, 148, 1);
+    font-size: 30px;
+}
+.Watch{
+    color: rgb(0, 0, 0);
+font-size: 35px;
+text-align: center;
+}
+/* help */
+.details{color: blue;
+font-size: 25px;
+}
+/* contact */
+.h3{color: black;
+    text-align: center;
+    font-size: 30px;
+}
+.h3massage{color: rgb(1, 139, 93);
+    font-size: 20px;
+
+}
+/* login  & create*/
+.label{color: darkred;
+    font-size: 25px;
+}
+.border{color: black;
+    border: 5px solid;
+    
+}
